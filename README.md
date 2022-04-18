@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushx" alt="bushx" /></a> </p>
 
-- 🔭 I’m currently working on [VRoomVroom](https://github.com/bushx/VRoomVRoom)
+- 🔭 I’m currently working on [VRoomVroom](https://github.com/bushx/VRtime)
 
 - 🌱 I’m currently learning **C#, Unity**
 
-- 👨‍💻 All of my projects are available at [bushx.ca](bushx.ca)
+<!--- 👨‍💻 All of my projects are available at [bushx.ca](https://bushx.ca)-->
 
 - 📝 I regularly write articles on [https://medium.com/@bushx](https://medium.com/@bushx)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bmanoman@gmail.com**
 
-- 📄 Know about my experiences [bushx.ca/resume](bushx.ca/resume)
+<!-- - 📄 Know about my experiences [bushx.ca/resume](bushx.ca/resume) -->
 
 - ⚡ Fun fact **I code and do practically everything online while using a Virtual Reality Headset**
 
