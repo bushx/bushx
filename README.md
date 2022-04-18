@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 - My First Blog on Creating My First VR Game [VRoomVroom](https://medium.com/@bushx/how-to-create-your-first-vr-game-using-unity-fee11aaf2e5a)
 - How to Install Docker on a Raspberry Pi [Part 1.5 of my Pi Series](https://medium.com/@bushx/how-to-install-docker-on-your-raspberry-pi-cab02839bbe1)
-https://medium.com/@bushx/how-to-install-homebridge-on-portainer-50132f07039e
+- How to Install HomeBridge on a Raspberry Pi [Part 3 of my Pi Series](https://medium.com/@bushx/how-to-install-homebridge-on-portainer-50132f07039e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
