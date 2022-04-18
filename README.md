@@ -23,8 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@bushx/how-to-create-your-first-vr-game-using-unity-fee11aaf2e5a
-https://medium.com/@bushx/how-to-install-docker-on-your-raspberry-pi-cab02839bbe1
+- My First Blog on Creating My First VR Game [VRoomVroom](https://medium.com/@bushx/how-to-create-your-first-vr-game-using-unity-fee11aaf2e5a)
+- How to Install Docker on a Raspberry Pi [Part 1.5 of my Pi Series](https://medium.com/@bushx/how-to-install-docker-on-your-raspberry-pi-cab02839bbe1)
 https://medium.com/@bushx/how-to-install-homebridge-on-portainer-50132f07039e
 <!-- BLOG-POST-LIST:END -->
 
