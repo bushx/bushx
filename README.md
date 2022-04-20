@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushx" alt="bushx" /></a> </p>
 
-- 🔭 I’m currently working on [VRoomVroom](https://github.com/bushx/VRtime)
+- 🔭 I’m currently working on my own VR game<!--[VRoomVroom](https://github.com/bushx/VRtime)-->
 
 - 🌱 I’m currently learning **C#, Unity, SwiftUI**
 
